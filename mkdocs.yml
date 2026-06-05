@@ -1,0 +1,64 @@
+site_name: "Digital Novelist Notes — Code Platoon"
+site_description: "Field notes from a novelist learning to code. HAC Studios / Keith Hayden."
+site_url: https://PLACEHOLDER_SITE_URL/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: white
+      accent: black
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: white
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.footer
+    - navigation.top
+    - content.code.copy
+    - navigation.instant
+    - search.highlight
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
+  - tags
+  - blog:
+      blog_dir: blog
+      post_date_format: "MMMM d, YYYY"
+      post_url_format: "{slug}"
+      authors_file: "{blog}/.authors.yml"
+      post_excerpt: required
+
+extra:
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/kh_author
+      name: Keith Hayden on X
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@DigitalNovelist
+      name: Digital Novelist on YouTube
+    - icon: fontawesome/brands/github
+      link: https://github.com/KgitWH21
+      name: GitHub
+    - icon: fontawesome/solid/house
+      link: https://keithhayden.net
+      name: keithhayden.net
+
+copyright: "© 2026 Keith Hayden / HAC Studios"
+
+nav:
+  - Home: index.md
+  - Blog: blog/index.md
+  - About: about.md
+  - Tags: tags.md

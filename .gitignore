@@ -1,0 +1,19 @@
+# MkDocs build output
+site/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Private content
+CLAUDE.md
+source/journals/
+
+# OS / editor
+.DS_Store
+*.swp
+*.swo

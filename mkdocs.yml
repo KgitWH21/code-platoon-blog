@@ -1,6 +1,6 @@
 site_name: "Digital Novelist Notes — Code Platoon"
 site_description: "Field notes from a novelist learning to code. HAC Studios / Keith Hayden."
-site_url: https://PLACEHOLDER_SITE_URL/
+site_url: https://code-platoon-blog.pages.dev/
 
 theme:
   name: material

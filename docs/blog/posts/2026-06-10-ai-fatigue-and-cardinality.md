@@ -81,4 +81,4 @@ I built the database before I understood databases. Turns out that's one way to 
 
 ---
 
-Story Spinner Plus is functional. First full-stack app, deployed. Tomorrow: get deeper into the Django ORM and write the queries that make it actually work.
+[Story Spinner Plus](https://story-spinner-plus.vercel.app/) is functional. First full-stack app, deployed. Tomorrow: get deeper into the Django ORM and write the queries that make it actually work.

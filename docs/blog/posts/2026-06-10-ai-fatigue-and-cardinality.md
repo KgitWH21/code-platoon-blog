@@ -2,6 +2,8 @@
 date: 2026-06-10
 categories:
   - Code Platoon
+authors:
+  - keith
 tags:
   - python
   - codewars

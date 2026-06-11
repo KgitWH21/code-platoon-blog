@@ -32,7 +32,8 @@ extra_css:
 
 plugins:
   - search
-  - tags
+  - tags:
+      tags_file: tags.md
   - blog:
       blog_dir: blog
       post_date_format: "MMMM d, YYYY"

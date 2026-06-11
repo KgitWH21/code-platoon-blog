@@ -22,7 +22,7 @@ Day 9. First day I felt genuinely beat up by this program. But it was also the d
 
 ## The Console Config Analogy
 
-The afternoon was a deep dive on RESTful APIs and environment variables — what they are, why you need them, why hard-coding secrets into your source code is the kind of mistake you only make once.
+The morning was a deep dive on RESTful APIs and environment variables — what they are, why you need them, why hard-coding secrets into your source code is the kind of mistake you only make once.
 
 The explanation I was given: environment variables are dynamic values that live outside your code, provided by the operating system or hosting platform. They let the same codebase behave differently depending on where it's running — local development pointing at a test database, production pointing at the real one.
 
@@ -102,7 +102,7 @@ If this doesn't work, it's still the most valuable learning I could do right now
 
 ## The Syntax Problem
 
-I'm nine days in and close to 50 Codewars problems logged. I'm still going the wrong direction more often than I'd like. The issue isn't logic — when someone walks me through a solution, I follow it. The issue is that my brain is simultaneously trying to solve the puzzle *and* translate the solution into a language I'm not fully fluent in yet. And I'm doing that in two languages — Python in the morning, JavaScript in the afternoon — which means constant context-switching.
+I'm nine days in and close to 50 Codewars problems logged. I'm still going the wrong direction more often than I'd like. The issue isn't logic — when someone walks me through a solution, I follow it. The issue is that my mind is simultaneously trying to solve the puzzle *and* translate the solution into a language I'm not fully fluent in yet. And I'm doing that in two languages — Python in the morning, JavaScript in the afternoon — which means constant context-switching.
 
 The comparison that makes sense to me: it's like trying to immerse yourself in a novel in your second language before you've drilled enough vocabulary to read without stopping. The story is there. The logic is there. But you're bottlenecked by the words.
 

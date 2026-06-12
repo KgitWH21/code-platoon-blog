@@ -77,7 +77,7 @@ I've got the thinking. The translation into code is what still trips me up when 
 
 ## Authentication: Identity vs Permission
 
-The afternoon was a deep dive on authentication — specifically how the concepts stack up: Basic auth, session-based auth, token-based (JWT), and the hybrid that most modern apps use.
+The morning and into the afternoon was a deep dive on authentication — specifically how the concepts stack up: Basic auth, session-based auth, token-based (JWT), and the hybrid that most modern apps use.
 
 The distinction I keep coming back to: **authentication** is answering *who are you?* **Authorization** is answering *what are you allowed to do?* They're sequential, not interchangeable, and the HTTP status codes that go with each have always confused me. Now they don't.
 
@@ -98,7 +98,7 @@ Clean system once you see how the pieces connect.
 
 Story Spinner Plus got real time today. The library feature is finally starting to feel like something I'd actually sit down and use — which is the test that matters.
 
-The original Story Spinner always felt overwhelming. You'd get everything at once: full character breakdowns, every possible trait, all the story seeds dumped on you at the same time. Too much. Paralysis by options.
+The original Story Spinner always felt overwhelming. You'd get everything at once: full character breakdowns, every possible trait, all the story seeds dumped on you at the same time. Way too much.
 
 What I built now: you see a few of thousands of options at a time, scroll and pick, build up a character or story incrementally. The difference in feel is significant. Hard to believe the app didn't exist a little over a week ago. Now it's on my phone, and when I open it, it functions like a real tool.
 
@@ -118,7 +118,7 @@ The lock is the most interesting one because it maps to an *abstract* concept �
 
 ## End of Week Two
 
-This week felt like the boot camp flow locked in. There are three distinct buckets of skill being developed simultaneously:
+This week felt like the bootcamp flow locked in. There are three distinct buckets of skill being developed simultaneously:
 
 **Full stack development** — the majority of time. Lectures, integrations, wiring things together. This week was authentication front to back: database restructure, RLS policies, frontend auth flows.
 

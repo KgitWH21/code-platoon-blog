@@ -148,9 +148,9 @@ The technical pieces: embeddings, vector storage in Postgres via pgvector, cosin
 
 This is what today was really about.
 
-I've been carrying a question around for a while: what should I build for the Code Platoon capstone? It has to be a full-stack app with auth, CRUD, and a third-party API integration. Beyond the requirements, I wanted something that was actually *mine* — something connected to what I'm already building, with real utility beyond the classroom.
+I've been carrying a question around for a few hours: what should I build for the Code Platoon agentic coding project? It has to be a full-stack app with auth, CRUD, and a third-party API integration. Beyond the requirements, I wanted something that was actually *mine* — something connected to what I'm already building, with real utility beyond the classroom.
 
-I spent the afternoon going back and forth on a few options. The one that won: a lore wiki for *Cereus & Limnic: Escape From Okinawa*.
+I spent the afternoon going back and forth on a few options. The one that won: a lore wiki for [*Cereus & Limnic: Escape From Okinawa*](https://keithhayden.net/cereus-limnic-escape-from-okinawa-type-b-novel/).
 
 The thesis behind it: every novel has more world than makes it onto the page. Character backstories that never got written. Cut scenes. Location details. In-universe documents. Right now that material dies in a drawer or a Notion doc nobody sees. Readers who finish a book they love have nowhere to go. There's no sanctioned deep-dive, no reason to stay in the world.
 

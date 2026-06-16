@@ -45,7 +45,7 @@ There's even a boss order:
 
 Skip a step and you're back at the last checkpoint.
 
-Ghost, Lemon Squeezy, Gumroad — they charge a platform cut precisely because they absorb that dungeon for you. Now that I've navigated it myself, I get it. The integration I built is solid: anonymous donations allowed, idempotent webhook, no `sk_` keys anywhere in the repo, RLS on the donations table.
+Ghost, Lemon Squeezy, Gumroad — they charge a platform cut precisely because they map that dungeon for you. Now that I've navigated it myself, I get it. The integration I built is solid: anonymous donations allowed, idempotent webhook, no `sk_` keys anywhere in the repo, RLS on the donations table.
 
 ---
 
@@ -83,13 +83,13 @@ A few things that cost me time, in case I need to debug this again later:
 
 ## Live Whiteboard: Go Through the Process
 
-Got selected for the daily afternoon algorithm demo — the public Code Wars display. My instinct going in: act like I'm on a livestream. Talk out loud. Show the thought process.
+Got selected for the daily afternoon algorithm demo — the public Codewars display. My instinct going in: act like I'm on a livestream. Talk out loud. Show the thought process.
 
-The problem was a math one. No string typecasting necessary. If you know loops and know how to establish variables, that's all it's testing. My decisions were sound. I solved it on my own.
+The problem was a math one. No string typecasting necessary. If you know loops and know how to establish variables, that's all it's testing. My decisions were sound. I solved it (mostly) on my own.
 
 The thing that reinforced something I've been thinking about: traditional search kept serving me outdated JavaScript documentation. Mozilla, W3 docs, Stack Overflow — three times I pulled a method I didn't recognize, tried it, and it didn't work. The Stack Overflow threads were old. The answers were deprecated.
 
-This goes against popular convention, but AI is surfacing the more relevant, timely hits. It's finding the stuff with the most recent activity and feeding those back. When the search results are telling you different things depending on where you look, that's usually a signal the older sources are wrong, not a signal that the feature doesn't exist.
+This goes against popular convention, but AI is surfacing the more relevant, timely hits. It's finding the resources with the most recent activity and feeding those back. When the search results are telling you different things depending on where you look, that's usually a signal the older sources are wrong, not a signal that the feature doesn't exist.
 
 Two and a half weeks ago my JavaScript was shaky. Now I can do a Code Wars level 7 without a second thought. Not bad.
 
@@ -101,11 +101,11 @@ A Q&A session with program alumni today snapped me out of something. Several of 
 
 Whether it's survivorship bias or not, the conversation made me look up from the immediate game of the bootcamp and think about what comes after.
 
-My website is five years of coding projects, writing, experiments, and anything I've wanted to wander down. Branding was never the intent — the intent was always to document what I learned and offer anything complete enough for public consumption. Turns out that's a portfolio whether I meant it to be one or not.
+My website is five years of coding projects, writing, experiments, and anything I've wanted to experiment with. Branding was never the intent — the intent was always to document what I learned and offer anything complete enough for public consumption. Turns out that's a portfolio whether I meant it to be one or not.
 
 The status game of the bootcamp — who solves the morning whiteboard fastest, who knows the most syntax — isn't the real game. Fundamentals, being curious, asking questions when you don't know, and having strong connections matter more. The job you get might use a completely different tech stack anyway. You'll start from the bottom learning it regardless.
 
-What I'm not wrong about: being genuinely excited to learn how tech works. That part isn't a game. That part is real.
+What I'm not wrong about: being genuinely excited to learn how tech works. That part isn't a game. It's real.
 
 I see myself working at the intersection of creativity and code. Narrative game dev seems like the direction everything is pointing, though the shape of it is still fuzzy. Something tells me to keep building toward it. And if an opportunity showed up that pushed toward it, I'd pursue it with urgency.
 

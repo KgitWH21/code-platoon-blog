@@ -110,7 +110,7 @@ The creator brain wants to go to the domain where it already feels powerful. The
 
 ## The Language Learning Analogy, Adjusted
 
-I've been trying to apply my language learning instincts to code syntax. This morning I wrote a Codewars solution by hand and it helped — when I write stuff down, it saves. The problem is there's no time to handwrite every solution at the volume code requires.
+I've been trying to apply my language learning instincts to code syntax. This morning I wrote a Codewars solution by hand and it helped — when I write things down, it saves. The problem is there's no time to handwrite every solution at the volume code requires.
 
 When I learned Chinese, I had four contact points per character: type it, look it up, write the strokes, add it to Anki, journal it. By the time I'd processed one character I'd seen it four different ways. That works for characters because you're dealing with them one at a time.
 
@@ -124,7 +124,7 @@ What I've settled on: it's just volume. You copy what already works until eventu
 
 Tim Ferriss posted something on Hacker News this week: he's selling half as many books as he was pre-ChatGPT. The nonfiction self-help category is down, and he doesn't think it's coming back in its traditional form.
 
-That tracks. I've felt this for a while — since I was writing *Tower of Babeling* back in 2019. There's no world where I write that book today and expect it to move. The person who would have bought a how-to language learning book now just opens Claude and has a conversation. Custom-tailored. Specific to their circumstances. No book required.
+That tracks. I've felt this for a while — since I was writing *Tower of Babeling* back in 2019. There's no world where I write that book today and expect it to sell. The person who would have bought a how-to language learning book now just opens Claude and has a conversation. Custom-tailored. Specific to their circumstances. No book required.
 
 What's still viable: memoir and narrative nonfiction with a story no one else can tell. *Hayden Brave* is safe because the only way to get what's in it is to read it — there's no AI substitute for someone else's lived experience, told as a story. But the Tim Ferriss style, *change your life, do this, do that* — that category is hollowed out.
 

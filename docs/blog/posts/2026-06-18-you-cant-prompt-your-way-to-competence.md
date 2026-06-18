@@ -66,9 +66,9 @@ I did not figure this out on my own. I needed an old YouTube video, Google Gemin
 
 We closed out week three with our weekly feedback session. One of the instructors brought up something that I'd been watching build for weeks and knew was coming.
 
-It's obvious some people are using AI to solve their daily algorithms. You can see it: a tough problem drops, and two minutes later fully-formed solutions start flooding the Slack channel. But when those same people get called to demo on the spot, they freeze. They can't declare a basic variable. They can't organize fundamental code. They'll say they're nervous. But nerves don't explain not knowing how to declare a variable.
+It's obvious some people are using AI to solve their daily algorithms. You can see it: a tough problem drops, and two minutes later fully-formed solutions start flooding the Slack channel. But when those same people get called to demo on the spot, they freeze. This isn't just a beginner issue. Even experienced programmers struggle with this.
 
-I said my piece because I have years of experience wrestling with exactly this question — how much AI is too much, how much is too little, when does it augment you versus when does it hollow you out. I've felt it in every domain I've applied these models to. I know what it looks like when AI starts masking your inability instead of building your capability.
+But I said my piece because I have years of experience wrestling with exactly this question — how much AI is too much, how much is too little, when does it augment you versus when does it hollow you out. I've felt it in every domain I've applied these models to: writing, music, running a business and more. I know what it looks like when AI starts masking your inability instead of building your capability.
 
 There's a thing that happens with these models that I think about a lot. The AI doesn't just give you the answer. It gives you the *feeling* of understanding. The output is coherent, confident, and often correct. If you don't have enough baseline knowledge to interrogate it, you can absorb that output and genuinely believe you understand something you don't. And then you get put on the spot, and the understanding evaporates, because it was never yours to begin with.
 
@@ -80,7 +80,7 @@ I didn't want to call anyone out. Honestly, I get it.
 
 By the afternoon algorithm session, we're all pressed for time. We've got five minutes to fill out daily feedback forms. Everyone's been sitting at a desk all day. Everyone wants to log off. Staring at a blank editor, feeling like your brain can't even process what the problem is demanding — that's real, and I feel it too.
 
-Struggling through pseudocode and fumbling with syntax takes 15 to 20 minutes of genuine mental friction. Spawning an answer takes five seconds.
+Struggling through pseudocode and fumbling with syntax takes 15 to 20 minutes of genuine mental friction. Spawning an answer with AI takes five seconds.
 
 If the goal is just to submit something, the calculus is obvious. But if you're in this to become capable — if the goal is to actually be able to do the thing — then you have to forcefully reject that convenience. You have to decide, prompt by prompt, whether you're augmenting your thinking or replacing it.
 
@@ -128,6 +128,6 @@ Same trap. One I walked into during a security challenge. The other I've been wa
 
 Security day. Retro day. Last day of the phase. Next week: the agentic coding project. The week after: Docker, then deep Python and JavaScript fundamentals — the bootcamp territory everyone keeps warning us about.
 
-People keep saying it's going to get harder. I take that with a grain of salt at this point. Every day is already a level of difficulty. That's not a flex — it's just where I've ended up after years of deliberately putting myself in hard positions and working through them. The pressure going up doesn't scare me. It clarifies things.
+People keep saying it's going to get harder. I take that with a grain of salt at this point. Every day is already a level of difficulty for me. That's not a flex — it's just where I've ended up after years of deliberately putting myself in hard positions and working through them. The pressure going up doesn't scare me. It provides clarity.
 
 The fundamentals are still the bottleneck. Syntax. Algorithms. The ability to produce working code without reaching for the oracle first. That's where the work is. More reps.

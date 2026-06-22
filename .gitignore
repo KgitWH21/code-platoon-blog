@@ -11,7 +11,7 @@ env/
 
 # Private content
 CLAUDE.md
-source/journals/clean/
+source/journals/
 
 # OS / editor
 .DS_Store

@@ -14,7 +14,7 @@ tags:
   - fiction
 ---
 
-# AI Didn't Invent Slop
+# Agentic Coding Project Complete
 
 Day 16. Week 4. The DOA Archive is live.
 
@@ -26,7 +26,7 @@ I shipped the most complex app I've ever created.
 
 ## Consuming Without Processing
 
-The [DOA Archive](https://doa-archive-wiki.vercel.app/) is a live, production military sci-fi lore wiki I built for my novel — a classified intelligence database for the Department of Otherworldly Affairs, a fictional military agency I've been developing. It's a React + Vite SPA connected to a Supabase backend with:
+The DOA Archive is a live, production military sci-fi lore wiki I built for my novel — a classified intelligence database for the Department of Otherworldly Affairs, a fictional military agency I've been developing. It's a React + Vite SPA connected to a Supabase backend with:
 
 - **Auth** — register, login, email confirmation, session persistence
 - **Gated content** — classified intel locked behind member access, enforced at the database layer with Row Level Security, not just hidden in the UI

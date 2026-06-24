@@ -34,13 +34,13 @@ I wanted to get it to the point where it could function as a real asset in my wo
 
 Today was all about the video. And I made a decision early: I wasn't going to do a student demo. I was going to do a product launch.
 
-I know how to make a basic tutorial video — I've probably put up 300+ over the past several years. At some point in 2023 I decided I was bad at making videos and the fix was to make 120 of them in a year with only one rule: complete enough to upload. That year broke the intimidation. Putting up a video isn't easy, but it's not nearly as hard as it used to feel.
+I know how to make a basic tutorial video — I've probably put up 300+ videos over the past several years. At some point in 2023 I decided I was bad at (and very intimidated by) making videos and the fix was to make 120 of them in a year with only one rule: complete enough to upload. That year broke the fear. Putting up a video isn't easy, but it's not nearly as hard as it used to feel.
 
-So when I sat down to record the demo for the DOA Archive, I wasn't starting from zero on the production side. I learned the OBS zoom feature so the code walkthrough would actually be watchable. I pulled Escape from Okinawa assets — the trailer song, the Hack Studios bumper and footer — and cut them in. I made transitions in Canva. I even left in the blooper reel at the end where I said "Strap" instead of "Stripe," because that's more interesting than a flawless take.
+So when I sat down to record the demo for the DOA Archive, I wasn't starting from zero on the production side. I learned the OBS zoom feature so the code walkthrough would actually be watchable. I pulled Escape from Okinawa assets — the trailer song, the HAC Studios bumper and footer — and cut them in. I made transitions in Canva. I even left in the blooper reel at the end where I said "Strap" instead of "Stripe," because that's more human than a flawless take.
 
 When I rewatched it — several times — it doesn't read like a class project. It reads like someone made this app and is genuinely interested in the novel behind it. That was the whole point.
 
-I don't know how they'll score it, and honestly that wasn't the goal. The goal was to get real squeeze out of the assignment. To make something I'd be proud to show people outside of this context. I think I did that.
+I don't know how they'll score it, and honestly that wasn't the goal. The goal was to get real squeeze out of the assignment. To make something I'd be proud to show people outside of this context. I accomplished that.
 
 ---
 
@@ -58,6 +58,6 @@ I default to the AI the same way you'd raise your hand for the instructor — wh
 
 ---
 
-Next week the agentic coding block ends and we move into more traditional algorithms and data structures. I'm done early, which means the rest of the week is mine — FreeCodeCamp, CodeWars, NeetCode, whatever I can get through.
+This week the agentic coding block ends and we move into more traditional algorithms and data structures. I'm done early, which means the rest of the week is mine — FreeCodeCamp, CodeWars, NeetCode, whatever I can get through.
 
 More reps. More vocabulary. The finish line keeps moving, which means I keep moving.

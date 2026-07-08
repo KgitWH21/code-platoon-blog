@@ -46,7 +46,7 @@ That's probably why I feel like I'm keeping pace while other people are starting
 
 ## The Program Is Starting to Sort People
 
-We lost two people this week. Might've been personal reasons, might not have been — I don't know the details and it's not really mine to know. But you can feel the selection pressure starting now regardless of the reason. The early weeks let people hide gaps behind AI, group work, general enthusiasm. Once the material turns syntax-heavy and concept-heavy, and the pace picks up, the program starts exposing who has a learning system underneath them and who was just surviving each day one at a time.
+We lost two people this week (I think). Might've been personal reasons, might not have been — I don't know the details and it's not really mine to know. But you can feel the selection pressure starting now regardless of the reason. The early weeks let people hide gaps behind AI, group work, general enthusiasm. Once the material turns syntax-heavy and concept-heavy, and the pace picks up, the program starts exposing who has a learning system underneath them and who was just surviving each day one at a time.
 
 I don't say that from a place of judgment. I say it because I can feel which side of that line I'm on right now, and I don't want to get comfortable and slide.
 
@@ -54,7 +54,7 @@ I don't say that from a place of judgment. I say it because I can feel which sid
 
 ## The House Has Less Silence in It
 
-There's a rhythm thing worth naming too. Wife's home, her class overlapps with my day, SGDQ's been running in the background, lunch is different, my normal break cadence keeps getting interrupted. None of that is a complaint — it's just that the same workload lands about 20-30% heavier when the day has less clean separation in it. I'm sharing the house's attention field right now instead of having it to myself. Worth knowing about myself going forward, not something to fix.
+There's a rhythm thing worth naming too. Wife's home, her class overlaps with my day, SGDQ's been running in the background, lunch is different, my normal break cadence keeps getting interrupted. None of that is a complaint — it's just that the same workload lands about 20-30% heavier when the day has less clean separation in it. I'm sharing the house's attention field right now instead of having it to myself. Worth knowing about myself going forward, not something to fix.
 
 ---
 

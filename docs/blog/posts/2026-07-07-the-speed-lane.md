@@ -14,7 +14,7 @@ tags:
 
 # The Speed Lane
 
-Day 24. Week six. This is the first day that felt like the boot in the ass that was promised.
+Two chairs sitting empty after the holiday, their owners' traces packed away with no ceremony, week six returned with a little sorting to do and a boot poised at our asses.
 
 <!-- more -->
 

@@ -16,7 +16,7 @@ tags:
 
 # Make It Look Like You Mean It
 
-Day 17. Week 4. The DOA Archive is done, documented, and submitted — and I was the first one to turn it in.
+If speed had meant sacrificing substance, I would've slowed down, but on day seventeen I submitted the DOA Archive first—built with purpose, checked with care, presented with conviction.
 
 <!-- more -->
 

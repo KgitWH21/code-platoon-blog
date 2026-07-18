@@ -16,7 +16,7 @@ tags:
 
 # Finishing Is a Skill
 
-Day 15. Week 4. No lectures — just open project time. I basically finished my SPA. And standing on the other side of it, I keep coming back to the same thought: the technical stuff was never actually the hard part.
+Finished and oddly stranded, I stood on the far side of my first SPA while one question kept dialing a number the technical work couldn't answer: if building wasn't the hard part, what was?
 
 <!-- more -->
 

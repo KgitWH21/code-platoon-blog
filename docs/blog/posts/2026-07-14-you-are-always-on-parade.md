@@ -16,7 +16,7 @@ tags:
 
 # You Are Always on Parade
 
-Day 29. Week seven. A mock technical interview in the afternoon, React syntax fighting me after, and an anagram problem that proved I've actually gotten somewhere in the last six weeks.
+But day twenty-nine arrived looking soundless, familiar, almost harmless, and my mind protected itself by calling React a rearrangement of things I already knew. A beginning.
 
 <!-- more -->
 

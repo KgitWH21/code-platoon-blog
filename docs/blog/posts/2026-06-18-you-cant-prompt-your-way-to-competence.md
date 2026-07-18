@@ -15,7 +15,9 @@ tags:
 
 # You Can't Prompt Your Way to Competence
 
-Day 14. The last day of week three. It turned into a security day — CSRF, SQL injection, white-hat/black-hat taxonomy, and two hours wrestling with OWASP Juice Shop. And then a retro that put a name on something I'd been watching build for weeks.
+By the end of week three, trusting AI's confident answer wasn't an option anymore; once it failed, I couldn't unsee the evidence sitting just beyond the database filter—the Christmas box.
+
+A surprise that turned into a security day — CSRF, SQL injection, white-hat/black-hat taxonomy, and two hours wrestling with OWASP Juice Shop. And then a retro that put a name on something I'd been watching build for weeks.
 
 <!-- more -->
 

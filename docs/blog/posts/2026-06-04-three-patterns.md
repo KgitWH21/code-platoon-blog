@@ -13,9 +13,9 @@ authors:
 
 # Three Patterns That Run Half of Algorithm Problems
 
-The more Codewars problems I work through, the more I notice that a large percentage of them are really asking the same three questions in different costumes. Not the same *answers* — the same underlying *structures*.
+Although I had faced these Codewars problems before, each new disguise slammed the same three doors in my face: Accumulator, Frequency Counter, and Two-Pointer. Not the same *answers* — the same underlying *structures*.
 
-Accumulator. Frequency Counter. Two-Pointer. If you can recognize which one you're looking at, the problem goes from "where do I even start" to "which version of this pattern applies here."
+If you can recognize which one you're looking at, the problem goes from "where do I even start" to "which version of this pattern applies here."
 
 <!-- more -->
 

@@ -14,7 +14,7 @@ tags:
 
 # Summer Vacation, You Thought
 
-Day 23. Week five in the books. We roll into the 4th of July break now — a nice, comfy four-day weekend, or so we thought.
+Cheerfully, we opened the four-day weekend like our familiar little library, expecting the same soft chairs and muted corners, only to find the books boxed, tables folded, and a demolition notice signed by Monday.
 
 <!-- more -->
 

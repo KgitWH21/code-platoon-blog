@@ -14,7 +14,7 @@ tags:
 
 # Trust the Sub-Problem
 
-Day 27. End of week six. We got Quick Sort today, taught through the Tower of Hanoi, and the two of them together handed me a cleaner way to describe what's actually happening to me a month and a half into this thing.
+Trust the smaller problem, tell the room you're only tired, and if the whole week starts leaning like funeral china in a cabinet gone soft with rot—well, no need to trouble Hanoi.
 
 <!-- more -->
 

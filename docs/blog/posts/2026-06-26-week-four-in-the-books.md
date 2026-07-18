@@ -14,7 +14,7 @@ tags:
 
 # Week Four in the Books
 
-Day 19. Week 4. EVO starts today, so I'm writing this early, before class officially ends, because I'm dipping as soon as the bell rings.
+Listen: I wrote before dismissal on day nineteen, called four weeks of changed habits and working code a little progress, and prepared to leave for EVO as though nothing remarkable had happened.
 
 What a week.
 

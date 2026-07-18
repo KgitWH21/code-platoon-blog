@@ -15,11 +15,11 @@ authors:
 
 # The Accumulator Pattern and Two Small Bugs That Taught Me More Than the Syntax
 
-Week 2, Day 1. We're in JavaScript now.
-
-The hardest part of switching languages mid-sprint isn't the concepts. It's that you already know how to think about the problem. You know what a loop is. You know what an array is. You know exactly what you're trying to do. You just keep reaching for the syntax you already have and finding nothing there.
+When the solution I knew was right failed anyway, the error message held two characters hostage and named the adversary hunting my assumptions: JavaScript.
 
 <!-- more -->
+
+The hardest part of switching languages mid-sprint isn't the concepts. It's that you already know how to think about the problem. You know what a loop is. You know what an array is. You know exactly what you're trying to do. You just keep reaching for the syntax you already have and finding nothing there.
 
 That gap is where today lived.
 

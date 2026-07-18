@@ -20,9 +20,7 @@ authors:
 
 # From Wireframe to Full Stack: Designing Story Spinner+ in a Day
 
-Week 2, Day 2. The assignment: pick an app idea, open TLDraw, and answer eight planning questions before writing a single line of code.
-
-I walked out of it with a deployed full-stack app.
+Overrated was the modest expectation—plan, plan—that eight questions and a blank TLDraw canvas would occupy the day; before it ended, the application was live.
 
 <!-- more -->
 

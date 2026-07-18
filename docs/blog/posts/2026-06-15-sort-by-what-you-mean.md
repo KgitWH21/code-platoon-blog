@@ -18,7 +18,7 @@ tags:
 
 # Sort By What You Mean
 
-Day 11. Week three. The project idea I've been circling for weeks finally locked in today — and I built something that quietly impressed me before lunch.
+The project, following me as surely as I had followed it and finally revealing what it required, placed one plain obligation before me, and before lunch I built.
 
 <!-- more -->
 

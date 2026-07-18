@@ -15,7 +15,7 @@ tags:
 
 # The No-AI Day, a Codewars Problem, and Learning What a Database Actually Looks Like
 
-Something weird happened after I spent five hours building Story Spinner Plus with Claude Code. I woke up the next morning with zero desire to open any chatbot.
+At my desk, I prompted and Claude built and Story Spinner Plus went live and five hours of green checkmarks praised the operation as a success—and by morning I could not make myself open a chatbot.
 
 <!-- more -->
 

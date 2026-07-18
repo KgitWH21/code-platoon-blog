@@ -15,7 +15,7 @@ tags:
 
 # Fingers on Keys
 
-Day 21. Week 5. Wall-to-wall lecture. The instructor knew it before we did.
+“Back to basics,” someone said, and after variables queued like commuters, brackets molted on the desk, and four AI-assisted weeks folded themselves into a paper moon, the old routine returned with the dry plastic chatter of a keyboard.
 
 <!-- more -->
 

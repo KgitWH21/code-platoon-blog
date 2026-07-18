@@ -14,7 +14,7 @@ tags:
 
 # Only One Skill Gets to Be Difficult
 
-Day 26. Week six closing out. Today's exercises were a zoo and a Boggle board, but the day itself was really about two things clicking at once: what `super()` is actually for, and how much of my last decade of "learn it yourself" has to change now that this is working.
+Open the cages; cages become classes, classes become creatures, and by the time the crowd understands that one missing `super()` has loosed a nameless bird, wings are beating through the warm sawdust stink.
 
 <!-- more -->
 

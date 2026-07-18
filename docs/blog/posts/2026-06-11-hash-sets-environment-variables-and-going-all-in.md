@@ -16,9 +16,11 @@ tags:
 
 # Hash Sets, Environment Variables, and Deciding to Go All In
 
-Day 9. First day I felt genuinely beat up by this program. But it was also the day I decided to stop being afraid of something I've been putting off for years.
+Because the subway gate obeyed a variable, the tower server guarded commerce with a variable, and my app crossed into production through a variable, what part of the city was not governed by the invisible?
 
 <!-- more -->
+
+Yet, this was the first day I felt genuinely beat up by this program. But it was also the day I decided to stop being afraid of something I've been putting off for years.
 
 ---
 

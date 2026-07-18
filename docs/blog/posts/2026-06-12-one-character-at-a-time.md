@@ -16,7 +16,7 @@ tags:
 
 # One Character at a Time
 
-Day 10. End of week two. The fog is starting to clear — which is exactly what you want to hear, right before the weekend grinds begin.
+Look upon the string: foreign seemed the whole when we judged it as one, but familiar became each character when we met it alone, recognizing an ally in the stranger of code. End of week two.
 
 <!-- more -->
 

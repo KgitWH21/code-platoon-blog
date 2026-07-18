@@ -12,11 +12,11 @@ authors:
 
 # The Loop That Wasn't
 
-Thirty minutes into a Codewars problem that should have taken five, I finally found the bug. It wasn't a logic error. It wasn't a missing edge case. It was a mental model problem I'd been carrying without knowing it, and once I saw it, everything snapped into place.
-
-The problem: count the truthy values in a list. Simple. I'd written this kind of loop before, in OSSU, in practice sets, in small utilities I'd built for my own work. I knew how loops worked. Except I didn't, quite.
+It was the loop that I had trusted through a hundred small programs, yet it received me not as one familiar but as a stranger wearing the face of a friend—the bug beneath the bug. It wasn't a logic error. It wasn't a missing edge case. It was a mental model problem I'd been hefting without knowing it, and once I saw it, everything snapped into place.
 
 <!-- more -->
+
+The problem: count the truthy values in a list. Simple. I'd written this kind of loop before, in OSSU, in practice sets, in small utilities I'd built for my own work. I knew how loops worked. Except I didn't, quite.
 
 Here's what I was thinking:
 

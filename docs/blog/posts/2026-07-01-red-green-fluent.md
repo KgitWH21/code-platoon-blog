@@ -15,7 +15,7 @@ tags:
 
 # Red, Green, Fluent
 
-Day 22. Week 5. Test-driven development, in theory, is a topic you could spend a career going deep on. We got a morning.
+If test-driven development can consume a career, then our single morning with it—brief, bright, already vanishing—passed like one green test in an endless suite beneath the classroom clock.
 
 <!-- more -->
 

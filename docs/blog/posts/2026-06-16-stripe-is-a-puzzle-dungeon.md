@@ -17,7 +17,7 @@ tags:
 
 # Stripe Is a Puzzle Dungeon
 
-Day 12. Week three. I successfully integrated a Stripe donation payment into Story Spinner Plus today. And now I understand exactly why products like Ghost charge a platform cut for pre-built payment integration.
+The Stripe integration, merely a little untidy with its keys, secrets, modes, and webhooks, occupied the desk like a drawer whose contents might take money or expose it, so I sorted each piece until the first donation cleared. And now I understand exactly why products like Ghost charge a platform cut for pre-built payment integration.
 
 <!-- more -->
 

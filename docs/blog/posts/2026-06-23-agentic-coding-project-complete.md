@@ -16,9 +16,7 @@ tags:
 
 # Agentic Coding Project Complete
 
-Day 16. Week 4. The DOA Archive is live.
-
-I shipped the most complex app I've ever created.
+Not until the machine that had carried the build became the outage that threatened it did I learn the creed of the work: we turn, we take up the next tool, we ship. The DOA Archive is live.
 
 <!-- more -->
 

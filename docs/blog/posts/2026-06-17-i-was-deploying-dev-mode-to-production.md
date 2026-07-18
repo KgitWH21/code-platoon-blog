@@ -17,7 +17,7 @@ tags:
 
 # I Was Deploying Dev Mode to Production This Whole Time
 
-Day 13. Week three. Not a bad day — just a scattered one. Boredom as resistance, context-switching fatigue, and the single most embarrassing production deploy realization I've had since I started this bootcamp.
+After the cohort closed its laptops on day thirteen, believing that a thing worked became harder than knowing what kind of thing was working, because my production site had been wearing development clothes all along. Not a bad day — just a scattered one. Boredom as resistance, context-switching fatigue, and the single most embarrassing production deploy realization I've had since I started this bootcamp.
 
 <!-- more -->
 

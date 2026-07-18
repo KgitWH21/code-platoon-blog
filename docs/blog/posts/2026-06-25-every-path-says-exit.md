@@ -14,7 +14,7 @@ tags:
 
 # Every Path Says Exit
 
-Day 18. Week 4. All algorithms, all day. Not a memorable day, but a diagnostic one.
+To work an algorithm in public is to lose both the small luxury of private error and the thread of one's own reasoning; when every proposed solution bears the same label, EXIT, which path can be justified?
 
 <!-- more -->
 

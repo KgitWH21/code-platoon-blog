@@ -15,7 +15,7 @@ tags:
 
 # Learning the Nuts and Bolts Anyway
 
-Day 28. Week seven. It was a slog, mostly because it was review for me — HTML, CSS, JavaScript, in that order, in one morning. And it's the day the existential question I've been dodging finally caught up with me: what is any of this for, if a model can one-shot the whole thing anyway?
+If AI can build the page, I can study the structure; if AI can write the code, I can trace the logic; if AI can carry the weight, I can still learn to walk.
 
 <!-- more -->
 

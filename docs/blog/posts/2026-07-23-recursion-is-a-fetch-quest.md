@@ -15,7 +15,7 @@ tags:
 
 # Recursion Is a Fetch Quest
 
-Reluctantly, I return to a memory I no longer entirely trust—the blue light of my monitor, recursion becoming a *Mega Man* charge shot and an RPG fetch quest, and me returning to it reluctantly—discovering that new ideas sometimes make sense only when they borrow the shape of old ones.
+Reluctantly, I return to a memory I no longer entirely trust—the blue light of my monitor, recursion becoming a *Mega Man* charge shot and an RPG fetch quest, and me returning to it reluctantly— discovering that new ideas sometimes make sense only when they borrow the shape of old ones.
 
 <!-- more -->
 

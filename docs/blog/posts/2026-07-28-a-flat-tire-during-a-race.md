@@ -326,3 +326,4 @@ Week nine, day thirty-eight, is done. Django is still a maze, and I am nowhere c
 The containers need a network. Django needs a host name it can resolve. Models become migration instructions, migrations become tables, fixtures become rows, and Admin and the shell are just different ways of reaching the same data.
 
 That is enough of a map to keep moving—even when I hit the next flat tire.
+ 
